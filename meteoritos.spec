@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['meteoritos.py'],
-             pathex=['C:\\Users\\gian.solis\\Downloads\\Pygame-master\\meteoritos'],
+             pathex=['C:\\Users\\gian.solis\\Downloads\\Pygame-master\\github\\Pygame-Python'],
              binaries=[],
              datas=[],
              hiddenimports=[],
